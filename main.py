@@ -29,7 +29,7 @@ model = VisionConformer(
 model = LitModel(model)
 
 # Training
-num_epochs = 5
+num_epochs = 500
 trainer = pl.Trainer(
     progress_bar_refresh_rate=1,
     max_epochs=num_epochs,

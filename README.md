@@ -11,7 +11,7 @@ If you have any questions, please touch me. akihiro.kusuda@human.ait.kyushu-u.ac
 You can create a conda environment with envirionment.yaml.  
 
 ```sh
-conda env create -f envirion.yaml
+conda env create -f envirionment.yaml
 conda activate vision-conformer
 ```
 

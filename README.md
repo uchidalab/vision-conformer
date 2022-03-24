@@ -2,7 +2,6 @@
 
 Implemention of Vision Conformer, a vision classification model that conbines Vision Transformer and CNN.  
 <img src="https://user-images.githubusercontent.com/54788782/158154662-c13b9e98-ea4a-4f8d-b0ee-178c92ef8a33.png" width=500/>  
-The contents are under developing.  
 
 The contents are under developing.  
 If you have any questions, please touch me. akihiro.kusuda@human.ait.kyushu-u.ac.jp  
